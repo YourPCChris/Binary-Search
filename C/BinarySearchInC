@@ -1,0 +1,4 @@
+This file has the executable and source code for the ***Binary Search*** algorithm in C.
+This is an algorithm used for finding a value in a pre ordered list. This algorithm will only work if the list is ordered.
+it works by looking at the mid point of the array and then if that value is not the desired one then it will look at the left or right half list by changing the end or start pointers.
+This is done recursively until either the value is found or start > end which means the value is not in the list.
