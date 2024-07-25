@@ -1,3 +1,10 @@
+//
+//Christopher Bennett
+//Binary Search Algo
+
+
+
+
 import java.util.Scanner;
 
 
