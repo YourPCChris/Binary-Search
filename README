@@ -1,0 +1,16 @@
+Binary-Search
+
+
+Binary search is an algorith which only works on a sorted list.
+It works by checking **mid** (does integer division of the lenght of list and assigns that to **mid**)
+
+Depending on whether **mid** is greater or less then the **value** either **start** or **end** gets modified to become **mid** + 1 or **mid** - 1.
+
+The check is then done again and this is done until the value is found.
+
+If **start** becomes greater than **end** then it knows **value** is not in the list.
+
+else if outputs the index that **value** is stored at.
+
+This algorithm can be modified to search for multiple occurences of **value** however currently does not. Would be as simple as checking the ajacent indexs until **value** is not seen and counting the amount of these occurences.
+

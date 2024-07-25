@@ -2,7 +2,7 @@
  * Christopher Bennett
  * Binary Search in C++
  * 24/07/2024
- */
+*/
 
 
 #include <iostream>
@@ -13,7 +13,7 @@ using namespace std;
 
 int main()
 {
-	cout << "We Ball!\n";
+	cout << "We Ball!" << "\n";
 	cout << "Bianry Search\n";
 
 	int start = 0;
