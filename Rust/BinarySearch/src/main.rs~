@@ -28,7 +28,7 @@ fn main()
     let numToFind: usize  = numToFind.trim().parse().expect("Failed to parse");
 
     
-    while start <= end
+    while start =< end
     {
         mid = (start + end) / 2;
 
