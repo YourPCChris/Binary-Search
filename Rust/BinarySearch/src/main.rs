@@ -27,7 +27,6 @@ fn main()
         .expect("Failed to read line");
     let numToFind: usize  = numToFind.trim().parse().expect("Failed to parse");
 
-
     
     while found
     {
